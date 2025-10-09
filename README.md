@@ -5,7 +5,7 @@
 This advanced Python course is designed for students who have already mastered intermediate programming concepts and want to expand their skills toward object-oriented programming (OOP), modular design, and interactive application development.
 Students will learn to structure Python code professionally, understand reusability and abstraction, manage projects using Git and GitHub, and create Streamlit applications for data-driven interfaces.
 
-# 📋 Course Structure (Intermediate Python - Level 3)
+# 📋 Course Structure (Advanced Python - Level 3)
 
 ## 🚀 Class 1: Object-Oriented Programming (OOP)
 
@@ -26,7 +26,7 @@ Students will learn to structure Python code professionally, understand reusabil
 - **Abstraction**: Hiding implementation details
 - **Inheritance**: Reusing and extending functionality
 - **Polymorphism**: Designing flexible interfaces
-- Modularity: Organizing code into reusable components
+- **Modularity**: Organizing code into reusable components
 
 ---
 
